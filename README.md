@@ -3,3 +3,7 @@
 NUMBERS
 STRINGS
 LISTS
+Dictionaries
+Tuples
+Sets
+Boolean
